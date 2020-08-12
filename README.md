@@ -33,9 +33,7 @@ A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidênci
   
 ## :computer: Resultado Web
 
-<h1 align="center">
-    <img alt="Web" src="" width="900px">
-</h1>
+![](https://github.com/gabipires/Ecoleta_Rocketseat_NLW01/blob/master/overview_ecoleta.gif)
   
 ---
 
